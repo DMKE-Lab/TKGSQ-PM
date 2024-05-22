@@ -1,0 +1,4007 @@
+[
+    {
+        "Id": 763,
+        "Question": "when president lincoln was elected?",
+        "Gold answer": [
+            "Abraham Lincoln Presidential Campaign, 1860"
+        ],
+        "Temporal signal": [
+            "No signal"
+        ],
+        "Type": [
+            "Temp.Ans"
+        ],
+        "Data source": "WebQuestions",
+        "Question creation date": "2013-10-18 (EMNLP 2013)"
+    },
+    {
+        "Id": 764,
+        "Question": "who was the vice president when bill clinton was in office?",
+        "Gold answer": [
+            "Al Gore"
+        ],
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Type": [
+            "Implicit"
+        ],
+        "Data source": "WebQuestions",
+        "Question creation date": "2013-10-18 (EMNLP 2013)"
+    },
+    {
+        "Id": 765,
+        "Question": "who did libya gain independence from in 1951?",
+        "Gold answer": [
+            "Italian Imperialists",
+            "its independence from Italy",
+            "Italy"
+        ],
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Type": [
+            "Explicit"
+        ],
+        "Data source": "ComplexQuestions",
+        "Question creation date": "2016-12-13 (COLING 2016)"
+    },
+    {
+        "Id": 766,
+        "Question": "who was us president when traicho kostov was a teenager?",
+        "Gold answer": [
+            "Woodrow Wilson"
+        ],
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Type": [
+            "Implicit"
+        ],
+        "Data source": "ComplexQuestions",
+        "Question creation date": "2016-12-13 (COLING 2016)"
+    },
+    {
+        "Id": 767,
+        "Question": "who settled in delaware in 1638?",
+        "Gold answer": [
+            "Sweden",
+            "Finns"
+        ],
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Type": [
+            "Explicit"
+        ],
+        "Data source": "ComplexQuestions",
+        "Question creation date": "2016-12-13 (COLING 2016)"
+    },
+    {
+        "Id": 768,
+        "Question": "when did mayans predict end of the world?",
+        "Gold answer": [
+            "2012"
+        ],
+        "Temporal signal": [
+            "No signal"
+        ],
+        "Type": [
+            "Temp.Ans"
+        ],
+        "Data source": "WebQuestions",
+        "Question creation date": "2013-10-18 (EMNLP 2013)"
+    },
+    {
+        "Id": 769,
+        "Question": "when and where was william shakespeare buried?",
+        "Gold answer": [
+            "1616-05-05"
+        ],
+        "Temporal signal": [
+            "No signal"
+        ],
+        "Type": [
+            "Temp.Ans"
+        ],
+        "Data source": "WebQuestions",
+        "Question creation date": "2013-10-18 (EMNLP 2013)"
+    },
+    {
+        "Id": 770,
+        "Question": "where did barack obama go to college in 1991?",
+        "Gold answer": [
+            "Harvard Law School"
+        ],
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Type": [
+            "Explicit"
+        ],
+        "Data source": "ComplexQuestions",
+        "Question creation date": "2016-12-13 (COLING 2016)"
+    },
+    {
+        "Id": 771,
+        "Question": "when did the bali bombings occur?",
+        "Gold answer": [
+            "2002 Bali bombings"
+        ],
+        "Temporal signal": [
+            "No signal"
+        ],
+        "Type": [
+            "Temp.Ans"
+        ],
+        "Data source": "WebQuestions",
+        "Question creation date": "2013-10-18 (EMNLP 2013)"
+    },
+    {
+        "Id": 772,
+        "Question": "what document was signed by the pilgrims in 1620?",
+        "Gold answer": [
+            "Mayflower Compact"
+        ],
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Type": [
+            "Explicit"
+        ],
+        "Data source": "ComplexQuestions",
+        "Question creation date": "2016-12-13 (COLING 2016)"
+    },
+    {
+        "Id": 773,
+        "Question": "who is the governor of hawaii now?",
+        "Gold answer": [
+            "Neil Abercrombie"
+        ],
+        "Temporal signal": [
+            "No Signal"
+        ],
+        "Type": [
+            "Explicit"
+        ],
+        "Data source": "WebQuestions",
+        "Question creation date": "2013-10-18 (EMNLP 2013)"
+    },
+    {
+        "Id": 774,
+        "Question": "when did a prairie home companion first air?",
+        "Gold answer": [
+            "1974-07-06"
+        ],
+        "Temporal signal": [
+            "ORDINAL"
+        ],
+        "Type": [
+            "Ordinal",
+            "Temp.Ans"
+        ],
+        "Data source": "Free917",
+        "Question creation date": "2013-08-04 (ACL 2013)"
+    },
+    {
+        "Id": 775,
+        "Question": "what year did william jennings bryan run for president?",
+        "Gold answer": [
+            "United States presidential election, 1900",
+            "United States presidential election, 1908",
+            "United States presidential election, 1896"
+        ],
+        "Temporal signal": [
+            "No signal"
+        ],
+        "Type": [
+            "Temp.Ans"
+        ],
+        "Data source": "WebQuestions",
+        "Question creation date": "2013-10-18 (EMNLP 2013)"
+    },
+    {
+        "Id": 776,
+        "Question": "what team does joe girardi currently manage?",
+        "Gold answer": [
+            "New York Yankees"
+        ],
+        "Temporal signal": [
+            "No Signal"
+        ],
+        "Type": [
+            "Explicit"
+        ],
+        "Data source": "Free917",
+        "Question creation date": "2013-08-04 (ACL 2013)"
+    },
+    {
+        "Id": 777,
+        "Question": "when did michael schumacher win his first title?",
+        "Gold answer": [
+            "1995"
+        ],
+        "Temporal signal": [
+            "ORDINAL"
+        ],
+        "Type": [
+            "Ordinal",
+            "Temp.Ans"
+        ],
+        "Data source": "WebQuestions",
+        "Question creation date": "2013-10-18 (EMNLP 2013)"
+    },
+    {
+        "Id": 778,
+        "Question": "who won best actress when billy wilder won best director?",
+        "Gold answer": [
+            "Joan Crawford"
+        ],
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Type": [
+            "Implicit"
+        ],
+        "Data source": "ComplexQuestions",
+        "Question creation date": "2016-12-13 (COLING 2016)"
+    },
+    {
+        "Id": 779,
+        "Question": "who is the prime minister of ethiopia now?",
+        "Gold answer": [
+            "Hailemariam Desalegn"
+        ],
+        "Temporal signal": [
+            "No Signal"
+        ],
+        "Type": [
+            "Explicit"
+        ],
+        "Data source": "WebQuestions",
+        "Question creation date": "2013-10-18 (EMNLP 2013)"
+    },
+    {
+        "Id": 780,
+        "Question": "who was the first man on the moon in 1969?",
+        "Gold answer": [
+            "Neil Armstrong",
+            "Astronaut Neil Armstrong",
+            "Armstrong",
+            "Alumnus Neil Armstrong",
+            "Neil Armstrong Neil A Spell",
+            "Armstrong and Aldrin",
+            "Neil",
+            "Commander Neil Armstrong"
+        ],
+        "Temporal signal": [
+            "ORDINAL,OVERLAP"
+        ],
+        "Type": [
+            "Explicit",
+            "Ordinal"
+        ],
+        "Data source": "ComplexQuestions",
+        "Question creation date": "2016-12-13 (COLING 2016)"
+    },
+    {
+        "Id": 781,
+        "Question": "when was jcpenney founded?",
+        "Gold answer": [
+            "1902"
+        ],
+        "Temporal signal": [
+            "No signal"
+        ],
+        "Type": [
+            "Temp.Ans"
+        ],
+        "Data source": "Free917",
+        "Question creation date": "2013-08-04 (ACL 2013)"
+    },
+    {
+        "Id": 782,
+        "Question": "who is paul mccartney's current wife?",
+        "Gold answer": [
+            "Nancy Shevell"
+        ],
+        "Temporal signal": [
+            "No Signal"
+        ],
+        "Type": [
+            "Explicit"
+        ],
+        "Data source": "WebQuestions",
+        "Question creation date": "2013-10-18 (EMNLP 2013)"
+    },
+    {
+        "Id": 783,
+        "Question": "where did gary coleman live when he died?",
+        "Gold answer": [
+            "Provo"
+        ],
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Type": [
+            "Implicit"
+        ],
+        "Data source": "WebQuestions",
+        "Question creation date": "2013-10-18 (EMNLP 2013)"
+    },
+    {
+        "Id": 784,
+        "Question": "which album did chris hillman release in 2005?",
+        "Gold answer": [
+            "The Other Side"
+        ],
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Type": [
+            "Explicit"
+        ],
+        "Data source": "ComplexQuestions",
+        "Question creation date": "2016-12-13 (COLING 2016)"
+    },
+    {
+        "Id": 785,
+        "Question": "which album did deep purple release in july 1993?",
+        "Gold answer": [
+            "The Battle Rages On..."
+        ],
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Type": [
+            "Explicit"
+        ],
+        "Data source": "ComplexQuestions",
+        "Question creation date": "2016-12-13 (COLING 2016)"
+    },
+    {
+        "Id": 786,
+        "Question": "what did nikola tesla invented that is of use today?",
+        "Gold answer": [
+            "Tesla coil"
+        ],
+        "Temporal signal": [
+            "No Signal"
+        ],
+        "Type": [
+            "Explicit"
+        ],
+        "Data source": "WebQuestions",
+        "Question creation date": "2013-10-18 (EMNLP 2013)"
+    },
+    {
+        "Id": 787,
+        "Question": "when was christopher columbus first expedition?",
+        "Gold answer": [
+            "1492 Conquest of Paradise"
+        ],
+        "Temporal signal": [
+            "ORDINAL"
+        ],
+        "Type": [
+            "Ordinal",
+            "Temp.Ans"
+        ],
+        "Data source": "WebQuestions",
+        "Question creation date": "2013-10-18 (EMNLP 2013)"
+    },
+    {
+        "Id": 788,
+        "Question": "when does nasdaq start trading?",
+        "Gold answer": [
+            "1971"
+        ],
+        "Temporal signal": [
+            "No signal"
+        ],
+        "Type": [
+            "Temp.Ans"
+        ],
+        "Data source": "WebQuestions",
+        "Question creation date": "2013-10-18 (EMNLP 2013)"
+    },
+    {
+        "Id": 789,
+        "Question": "who is the ravens quarterback 2012?",
+        "Gold answer": [
+            "Joe Flacco"
+        ],
+        "Temporal signal": [
+            "No Signal"
+        ],
+        "Type": [
+            "Explicit"
+        ],
+        "Data source": "WebQuestions",
+        "Question creation date": "2013-10-18 (EMNLP 2013)"
+    },
+    {
+        "Id": 790,
+        "Question": "what was reagan before president?",
+        "Gold answer": [
+            "Governor of California"
+        ],
+        "Temporal signal": [
+            "BEFORE"
+        ],
+        "Type": [
+            "Implicit"
+        ],
+        "Data source": "WebQuestions",
+        "Question creation date": "2013-10-18 (EMNLP 2013)"
+    },
+    {
+        "Id": 791,
+        "Question": "when did michael jackson go solo?",
+        "Gold answer": [
+            "1967"
+        ],
+        "Temporal signal": [
+            "No signal"
+        ],
+        "Type": [
+            "Temp.Ans"
+        ],
+        "Data source": "Free917",
+        "Question creation date": "2013-08-04 (ACL 2013)"
+    },
+    {
+        "Id": 792,
+        "Question": "what was lil wayne's first hit song?",
+        "Gold answer": [
+            "Go DJ",
+            "Ludacris Diss",
+            "Freestyle",
+            "California Love",
+            "Shorty Bounce",
+            "Way of Life"
+        ],
+        "Temporal signal": [
+            "ORDINAL"
+        ],
+        "Type": [
+            "Ordinal"
+        ],
+        "Data source": "WebQuestions",
+        "Question creation date": "2013-10-18 (EMNLP 2013)"
+    },
+    {
+        "Id": 793,
+        "Question": "which movie won best cinematography when sam mendes won best director?",
+        "Gold answer": [
+            "American Beauty"
+        ],
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Type": [
+            "Implicit"
+        ],
+        "Data source": "ComplexQuestions",
+        "Question creation date": "2016-12-13 (COLING 2016)"
+    },
+    {
+        "Id": 794,
+        "Question": "who was the first governor of colonial south carolina?",
+        "Gold answer": [
+            "Thomas Pinckney"
+        ],
+        "Temporal signal": [
+            "ORDINAL"
+        ],
+        "Type": [
+            "Ordinal"
+        ],
+        "Data source": "WebQuestions",
+        "Question creation date": "2013-10-18 (EMNLP 2013)"
+    },
+    {
+        "Id": 795,
+        "Question": "when was the last time the la kings won a playoff series?",
+        "Gold answer": [
+            "2012 Stanley Cup Finals"
+        ],
+        "Temporal signal": [
+            "ORDINAL"
+        ],
+        "Type": [
+            "Ordinal",
+            "Temp.Ans"
+        ],
+        "Data source": "WebQuestions",
+        "Question creation date": "2013-10-18 (EMNLP 2013)"
+    },
+    {
+        "Id": 796,
+        "Question": "who was the first president to use a hearing aid?",
+        "Gold answer": [
+            "George Washington"
+        ],
+        "Temporal signal": [
+            "ORDINAL"
+        ],
+        "Type": [
+            "Ordinal"
+        ],
+        "Data source": "ComplexQuestions",
+        "Question creation date": "2016-12-13 (COLING 2016)"
+    },
+    {
+        "Id": 797,
+        "Question": "what year did edgar allan poe go to college?",
+        "Gold answer": [
+            "1826-02-14"
+        ],
+        "Temporal signal": [
+            "No signal"
+        ],
+        "Type": [
+            "Temp.Ans"
+        ],
+        "Data source": "WebQuestions",
+        "Question creation date": "2013-10-18 (EMNLP 2013)"
+    },
+    {
+        "Id": 798,
+        "Question": "what country did united states purchase alaska from in 1867 for $7.2 million dollars?",
+        "Gold answer": [
+            "Russia"
+        ],
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Type": [
+            "Explicit"
+        ],
+        "Data source": "ComplexQuestions",
+        "Question creation date": "2016-12-13 (COLING 2016)"
+    },
+    {
+        "Id": 799,
+        "Question": "where does selena gomez live right now 2010?",
+        "Gold answer": [
+            "New York City"
+        ],
+        "Temporal signal": [
+            "No Signal"
+        ],
+        "Type": [
+            "Explicit"
+        ],
+        "Data source": "WebQuestions",
+        "Question creation date": "2013-10-18 (EMNLP 2013)"
+    },
+    {
+        "Id": 800,
+        "Question": "who are the senators of hawaii 2012?",
+        "Gold answer": [
+            "Brian Schatz"
+        ],
+        "Temporal signal": [
+            "No Signal"
+        ],
+        "Type": [
+            "Explicit"
+        ],
+        "Data source": "WebQuestions",
+        "Question creation date": "2013-10-18 (EMNLP 2013)"
+    },
+    {
+        "Id": 801,
+        "Question": "what year did scottie pippen come into the nba?",
+        "Gold answer": [
+            "1987"
+        ],
+        "Temporal signal": [
+            "No signal"
+        ],
+        "Type": [
+            "Temp.Ans"
+        ],
+        "Data source": "WebQuestions",
+        "Question creation date": "2013-10-18 (EMNLP 2013)"
+    },
+    {
+        "Id": 802,
+        "Question": "who was governor of minnesota when dil ne jise apna kahaa was released?",
+        "Gold answer": [
+            "Tim Pawlenty"
+        ],
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Type": [
+            "Implicit"
+        ],
+        "Data source": "ComplexQuestions",
+        "Question creation date": "2016-12-13 (COLING 2016)"
+    },
+    {
+        "Id": 803,
+        "Question": "what is the current government system in france?",
+        "Gold answer": [
+            "Semi-presidential system",
+            "Constitutional republic",
+            "Unitary state"
+        ],
+        "Temporal signal": [
+            "No Signal"
+        ],
+        "Type": [
+            "Explicit"
+        ],
+        "Data source": "WebQuestions",
+        "Question creation date": "2013-10-18 (EMNLP 2013)"
+    },
+    {
+        "Id": 804,
+        "Question": "when was the last time the ny giants were in the super bowl?",
+        "Gold answer": [
+            "Super Bowl XLVI"
+        ],
+        "Temporal signal": [
+            "ORDINAL"
+        ],
+        "Type": [
+            "Ordinal",
+            "Temp.Ans"
+        ],
+        "Data source": "WebQuestions",
+        "Question creation date": "2013-10-18 (EMNLP 2013)"
+    },
+    {
+        "Id": 805,
+        "Question": "what currency does russia use 2012?",
+        "Gold answer": [
+            "Russian ruble"
+        ],
+        "Temporal signal": [
+            "No Signal"
+        ],
+        "Type": [
+            "Explicit"
+        ],
+        "Data source": "WebQuestions",
+        "Question creation date": "2013-10-18 (EMNLP 2013)"
+    },
+    {
+        "Id": 806,
+        "Question": "what happened after the invasion of normandy?",
+        "Gold answer": [
+            "Battle of Cherbourg"
+        ],
+        "Temporal signal": [
+            "AFTER"
+        ],
+        "Type": [
+            "Implicit"
+        ],
+        "Data source": "WebQuestions",
+        "Question creation date": "2013-10-18 (EMNLP 2013)"
+    },
+    {
+        "Id": 807,
+        "Question": "how much did a canon powershot tx1 cost when it was released?",
+        "Gold answer": [
+            "499.99"
+        ],
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Type": [
+            "Implicit"
+        ],
+        "Data source": "Free917",
+        "Question creation date": "2013-08-04 (ACL 2013)"
+    },
+    {
+        "Id": 808,
+        "Question": "how many countries participated in the 2006 winter olympics?",
+        "Gold answer": [
+            "80"
+        ],
+        "Temporal signal": [
+            "No Signal"
+        ],
+        "Type": [
+            "Explicit"
+        ],
+        "Data source": "Free917",
+        "Question creation date": "2013-08-04 (ACL 2013)"
+    },
+    {
+        "Id": 809,
+        "Question": "who was the leader of soviet union during wwii?",
+        "Gold answer": [
+            "Joseph Stalin"
+        ],
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Type": [
+            "Implicit"
+        ],
+        "Data source": "WebQuestions",
+        "Question creation date": "2013-10-18 (EMNLP 2013)"
+    },
+    {
+        "Id": 810,
+        "Question": "who was the president of pakistan in 1980?",
+        "Gold answer": [
+            "Muhammad Zia-ul-Haq"
+        ],
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Type": [
+            "Explicit"
+        ],
+        "Data source": "WebQuestions",
+        "Question creation date": "2013-10-18 (EMNLP 2013)"
+    },
+    {
+        "Id": 811,
+        "Question": "who are the senators of virginia 2013?",
+        "Gold answer": [
+            "Mark Warner",
+            "Tim Kaine"
+        ],
+        "Temporal signal": [
+            "No Signal"
+        ],
+        "Type": [
+            "Explicit"
+        ],
+        "Data source": "WebQuestions",
+        "Question creation date": "2013-10-18 (EMNLP 2013)"
+    },
+    {
+        "Id": 812,
+        "Question": "what years the steelers won the super bowl?",
+        "Gold answer": [
+            "Super Bowl IX",
+            "Super Bowl XLIII",
+            "Super Bowl X",
+            "Super Bowl XL",
+            "Super Bowl XIV",
+            "Super Bowl XIII"
+        ],
+        "Temporal signal": [
+            "No signal"
+        ],
+        "Type": [
+            "Temp.Ans"
+        ],
+        "Data source": "WebQuestions",
+        "Question creation date": "2013-10-18 (EMNLP 2013)"
+    },
+    {
+        "Id": 813,
+        "Question": "which album did professor griff release in 2001?",
+        "Gold answer": [
+            "And the Word Became Flesh"
+        ],
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Type": [
+            "Explicit"
+        ],
+        "Data source": "ComplexQuestions",
+        "Question creation date": "2016-12-13 (COLING 2016)"
+    },
+    {
+        "Id": 814,
+        "Question": "when was bill clinton elected president?",
+        "Gold answer": [
+            "1996 Democratic National Convention",
+            "1992 Democratic National Convention"
+        ],
+        "Temporal signal": [
+            "No signal"
+        ],
+        "Type": [
+            "Temp.Ans"
+        ],
+        "Data source": "WebQuestions",
+        "Question creation date": "2013-10-18 (EMNLP 2013)"
+    },
+    {
+        "Id": 815,
+        "Question": "what is the name of dawn french's first novel?",
+        "Gold answer": [
+            "Big knits"
+        ],
+        "Temporal signal": [
+            "ORDINAL"
+        ],
+        "Type": [
+            "Ordinal"
+        ],
+        "Data source": "WebQuestions",
+        "Question creation date": "2013-10-18 (EMNLP 2013)"
+    },
+    {
+        "Id": 816,
+        "Question": "when was amos alonzo stagg high school founded?",
+        "Gold answer": [
+            "1964"
+        ],
+        "Temporal signal": [
+            "No signal"
+        ],
+        "Type": [
+            "Temp.Ans"
+        ],
+        "Data source": "ComplexQuestions",
+        "Question creation date": "2016-12-13 (COLING 2016)"
+    },
+    {
+        "Id": 817,
+        "Question": "what school did cam newton go to before auburn?",
+        "Gold answer": [
+            "Blinn College"
+        ],
+        "Temporal signal": [
+            "BEFORE"
+        ],
+        "Type": [
+            "Implicit"
+        ],
+        "Data source": "WebQuestions",
+        "Question creation date": "2013-10-18 (EMNLP 2013)"
+    },
+    {
+        "Id": 818,
+        "Question": "what money do they have in greek before 2002?",
+        "Gold answer": [
+            "Greek drachma"
+        ],
+        "Temporal signal": [
+            "BEFORE"
+        ],
+        "Type": [
+            "Explicit"
+        ],
+        "Data source": "ComplexQuestions",
+        "Question creation date": "2016-12-13 (COLING 2016)"
+    },
+    {
+        "Id": 819,
+        "Question": "what is the price of a 2012 jeep wrangler sport?",
+        "Gold answer": [
+            "22045"
+        ],
+        "Temporal signal": [
+            "No Signal"
+        ],
+        "Type": [
+            "Explicit"
+        ],
+        "Data source": "Free917",
+        "Question creation date": "2013-08-04 (ACL 2013)"
+    },
+    {
+        "Id": 820,
+        "Question": "who was the president of the united states during ww2?",
+        "Gold answer": [
+            "Franklin D. Roosevelt"
+        ],
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Type": [
+            "Implicit"
+        ],
+        "Data source": "WebQuestions",
+        "Question creation date": "2013-10-18 (EMNLP 2013)"
+    },
+    {
+        "Id": 821,
+        "Question": "when did mcdonalds officially open?",
+        "Gold answer": [
+            "1940-05-15"
+        ],
+        "Temporal signal": [
+            "No signal"
+        ],
+        "Type": [
+            "Temp.Ans"
+        ],
+        "Data source": "WebQuestions",
+        "Question creation date": "2013-10-18 (EMNLP 2013)"
+    },
+    {
+        "Id": 822,
+        "Question": "who was defeated at the battle of fallen timbers in 1794?",
+        "Gold answer": [
+            "Confederate States of America",
+            "British Indian Army",
+            "Native Americans in the United States"
+        ],
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Type": [
+            "Explicit"
+        ],
+        "Data source": "ComplexQuestions",
+        "Question creation date": "2016-12-13 (COLING 2016)"
+    },
+    {
+        "Id": 823,
+        "Question": "what kind of money do they have in finland before the euro?",
+        "Gold answer": [
+            "Finnish markka"
+        ],
+        "Temporal signal": [
+            "BEFORE"
+        ],
+        "Type": [
+            "Implicit"
+        ],
+        "Data source": "ComplexQuestions",
+        "Question creation date": "2016-12-13 (COLING 2016)"
+    },
+    {
+        "Id": 824,
+        "Question": "when did the industrial revolution in europe began?",
+        "Gold answer": [
+            "1790"
+        ],
+        "Temporal signal": [
+            "No signal"
+        ],
+        "Type": [
+            "Temp.Ans"
+        ],
+        "Data source": "ComplexQuestions",
+        "Question creation date": "2016-12-13 (COLING 2016)"
+    },
+    {
+        "Id": 825,
+        "Question": "what year did lamar odom play for the clippers?",
+        "Gold answer": [
+            "2003\u201304 NBA season",
+            "2005\u201306 NBA season",
+            "2004\u201305 NBA season",
+            "2002\u201303 NBA season",
+            "2001\u201302 NBA season",
+            "2000\u201301 NBA season",
+            "1999\u20132000 NBA season",
+            "2006\u201307 NBA season",
+            "2007\u201308 NBA season"
+        ],
+        "Temporal signal": [
+            "No signal"
+        ],
+        "Type": [
+            "Temp.Ans"
+        ],
+        "Data source": "WebQuestions",
+        "Question creation date": "2013-10-18 (EMNLP 2013)"
+    },
+    {
+        "Id": 826,
+        "Question": "what year was kevin durant drafted?",
+        "Gold answer": [
+            "2007 NBA Draft"
+        ],
+        "Temporal signal": [
+            "No signal"
+        ],
+        "Type": [
+            "Temp.Ans"
+        ],
+        "Data source": "WebQuestions",
+        "Question creation date": "2013-10-18 (EMNLP 2013)"
+    },
+    {
+        "Id": 827,
+        "Question": "who is currently secretary of defense in the government?",
+        "Gold answer": [
+            "Chuck Hagel",
+            "Leon Panetta"
+        ],
+        "Temporal signal": [
+            "No Signal"
+        ],
+        "Type": [
+            "Explicit"
+        ],
+        "Data source": "ComplexQuestions",
+        "Question creation date": "2016-12-13 (COLING 2016)"
+    },
+    {
+        "Id": 828,
+        "Question": "what are the holydays of obligation in the catholic church 2013?",
+        "Gold answer": [
+            "Name day",
+            "Saint Patrick's Day",
+            "Maundy Thursday",
+            "Palm Sunday",
+            "Saint George's Day",
+            "Saint Joseph's Day",
+            "Christmas"
+        ],
+        "Temporal signal": [
+            "No Signal"
+        ],
+        "Type": [
+            "Explicit"
+        ],
+        "Data source": "WebQuestions",
+        "Question creation date": "2013-10-18 (EMNLP 2013)"
+    },
+    {
+        "Id": 829,
+        "Question": "who was london mayor before boris johnson?",
+        "Gold answer": [
+            "Ken Livingstone"
+        ],
+        "Temporal signal": [
+            "BEFORE"
+        ],
+        "Type": [
+            "Implicit"
+        ],
+        "Data source": "ComplexQuestions",
+        "Question creation date": "2016-12-13 (COLING 2016)"
+    },
+    {
+        "Id": 830,
+        "Question": "who won the american league east in 2012?",
+        "Gold answer": [
+            "New York Yankees"
+        ],
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Type": [
+            "Explicit"
+        ],
+        "Data source": "WebQuestions",
+        "Question creation date": "2013-10-18 (EMNLP 2013)"
+    },
+    {
+        "Id": 831,
+        "Question": "who does billy beane work for now?",
+        "Gold answer": [
+            "Oakland Athletics"
+        ],
+        "Temporal signal": [
+            "No Signal"
+        ],
+        "Type": [
+            "Explicit"
+        ],
+        "Data source": "WebQuestions",
+        "Question creation date": "2013-10-18 (EMNLP 2013)"
+    },
+    {
+        "Id": 832,
+        "Question": "who coached the dallas cowboys in 1996?",
+        "Gold answer": [
+            "Chan Gailey"
+        ],
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Type": [
+            "Explicit"
+        ],
+        "Data source": "WebQuestions",
+        "Question creation date": "2013-10-18 (EMNLP 2013)"
+    },
+    {
+        "Id": 833,
+        "Question": "when was hank aaron inducted into the hall of fame?",
+        "Gold answer": [
+            "1982-08-01"
+        ],
+        "Temporal signal": [
+            "No signal"
+        ],
+        "Type": [
+            "Temp.Ans"
+        ],
+        "Data source": "Free917",
+        "Question creation date": "2013-08-04 (ACL 2013)"
+    },
+    {
+        "Id": 834,
+        "Question": "what time zone is the uk in right now?",
+        "Gold answer": [
+            "Greenwich Mean Time",
+            "UTC\u00b100:00"
+        ],
+        "Temporal signal": [
+            "No Signal"
+        ],
+        "Type": [
+            "Explicit"
+        ],
+        "Data source": "WebQuestions",
+        "Question creation date": "2013-10-18 (EMNLP 2013)"
+    },
+    {
+        "Id": 835,
+        "Question": "who graduated from west point in 1829?",
+        "Gold answer": [
+            "Robert E. Lee"
+        ],
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Type": [
+            "Explicit"
+        ],
+        "Data source": "ComplexQuestions",
+        "Question creation date": "2016-12-13 (COLING 2016)"
+    },
+    {
+        "Id": 836,
+        "Question": "when was yosemite national park designated as a protected place?",
+        "Gold answer": [
+            "1890-10-01"
+        ],
+        "Temporal signal": [
+            "No signal"
+        ],
+        "Type": [
+            "Temp.Ans"
+        ],
+        "Data source": "Free917",
+        "Question creation date": "2013-08-04 (ACL 2013)"
+    },
+    {
+        "Id": 837,
+        "Question": "what did france lose to the british in the treaty of paris in 1763?",
+        "Gold answer": [
+            "North America"
+        ],
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Type": [
+            "Explicit"
+        ],
+        "Data source": "ComplexQuestions",
+        "Question creation date": "2016-12-13 (COLING 2016)"
+    },
+    {
+        "Id": 838,
+        "Question": "which book did ann martin write in 2003?",
+        "Gold answer": [
+            "The Meanest Doll in the World"
+        ],
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Type": [
+            "Explicit"
+        ],
+        "Data source": "ComplexQuestions",
+        "Question creation date": "2016-12-13 (COLING 2016)"
+    },
+    {
+        "Id": 839,
+        "Question": "what team does david beckham play for in 2012?",
+        "Gold answer": [
+            "LA Galaxy"
+        ],
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Type": [
+            "Explicit"
+        ],
+        "Data source": "WebQuestions",
+        "Question creation date": "2013-10-18 (EMNLP 2013)"
+    },
+    {
+        "Id": 840,
+        "Question": "what year did the golden state warriors win their first nba championship?",
+        "Gold answer": [
+            "1947 BAA Finals"
+        ],
+        "Temporal signal": [
+            "ORDINAL"
+        ],
+        "Type": [
+            "Ordinal",
+            "Temp.Ans"
+        ],
+        "Data source": "WebQuestions",
+        "Question creation date": "2013-10-18 (EMNLP 2013)"
+    },
+    {
+        "Id": 841,
+        "Question": "who won the nobel peace prize in 2007?",
+        "Gold answer": [
+            "Intergovernmental Panel on Climate Change",
+            "Al Gore"
+        ],
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Type": [
+            "Explicit"
+        ],
+        "Data source": "WebQuestions",
+        "Question creation date": "2013-10-18 (EMNLP 2013)"
+    },
+    {
+        "Id": 842,
+        "Question": "who is the president of costa rica in 2012?",
+        "Gold answer": [
+            "Laura Chinchilla"
+        ],
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Type": [
+            "Explicit"
+        ],
+        "Data source": "WebQuestions",
+        "Question creation date": "2013-10-18 (EMNLP 2013)"
+    },
+    {
+        "Id": 843,
+        "Question": "who is the governor of oregon 2012?",
+        "Gold answer": [
+            "John Kitzhaber"
+        ],
+        "Temporal signal": [
+            "No Signal"
+        ],
+        "Type": [
+            "Explicit"
+        ],
+        "Data source": "WebQuestions",
+        "Question creation date": "2013-10-18 (EMNLP 2013)"
+    },
+    {
+        "Id": 844,
+        "Question": "what year michael jordan came in the nba?",
+        "Gold answer": [
+            "1984 NBA Draft"
+        ],
+        "Temporal signal": [
+            "No signal"
+        ],
+        "Type": [
+            "Temp.Ans"
+        ],
+        "Data source": "WebQuestions",
+        "Question creation date": "2013-10-18 (EMNLP 2013)"
+    },
+    {
+        "Id": 845,
+        "Question": "what was the name of the book hitler wrote while in prison?",
+        "Gold answer": [
+            "Mein Kampf"
+        ],
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Type": [
+            "Implicit"
+        ],
+        "Data source": "WebQuestions",
+        "Question creation date": "2013-10-18 (EMNLP 2013)"
+    },
+    {
+        "Id": 846,
+        "Question": "when did mcgee start on ncis?",
+        "Gold answer": [
+            "NCIS - Season 1"
+        ],
+        "Temporal signal": [
+            "No signal"
+        ],
+        "Type": [
+            "Temp.Ans"
+        ],
+        "Data source": "WebQuestions",
+        "Question creation date": "2013-10-18 (EMNLP 2013)"
+    },
+    {
+        "Id": 847,
+        "Question": "what team does derek fisher play for 2012?",
+        "Gold answer": [
+            "Oklahoma City Thunder",
+            "Dallas Mavericks",
+            "Los Angeles Lakers"
+        ],
+        "Temporal signal": [
+            "No Signal"
+        ],
+        "Type": [
+            "Explicit"
+        ],
+        "Data source": "WebQuestions",
+        "Question creation date": "2013-10-18 (EMNLP 2013)"
+    },
+    {
+        "Id": 848,
+        "Question": "who was vice president when jfk was president?",
+        "Gold answer": [
+            "Lyndon B. Johnson"
+        ],
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Type": [
+            "Implicit"
+        ],
+        "Data source": "WebQuestions",
+        "Question creation date": "2013-10-18 (EMNLP 2013)"
+    },
+    {
+        "Id": 849,
+        "Question": "what kind of government did the united states have after the revolution?",
+        "Gold answer": [
+            "Presidential system",
+            "Federal republic",
+            "Representative democracy",
+            "Two-party system",
+            "Constitutional republic",
+            "Republic"
+        ],
+        "Temporal signal": [
+            "AFTER"
+        ],
+        "Type": [
+            "Implicit"
+        ],
+        "Data source": "WebQuestions",
+        "Question creation date": "2013-10-18 (EMNLP 2013)"
+    },
+    {
+        "Id": 850,
+        "Question": "who is the prime minister of new zealand now?",
+        "Gold answer": [
+            "John Key"
+        ],
+        "Temporal signal": [
+            "No Signal"
+        ],
+        "Type": [
+            "Explicit"
+        ],
+        "Data source": "WebQuestions",
+        "Question creation date": "2013-10-18 (EMNLP 2013)"
+    },
+    {
+        "Id": 851,
+        "Question": "how many teams participated in the 1979 cricket world cup?",
+        "Gold answer": [
+            "8"
+        ],
+        "Temporal signal": [
+            "No Signal"
+        ],
+        "Type": [
+            "Explicit"
+        ],
+        "Data source": "Free917",
+        "Question creation date": "2013-08-04 (ACL 2013)"
+    },
+    {
+        "Id": 852,
+        "Question": "who was president of the us when douglas bravo was a teenager?",
+        "Gold answer": [
+            "Franklin D. Roosevelt"
+        ],
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Type": [
+            "Implicit"
+        ],
+        "Data source": "ComplexQuestions",
+        "Question creation date": "2016-12-13 (COLING 2016)"
+    },
+    {
+        "Id": 853,
+        "Question": "who is the governor of california 2010?",
+        "Gold answer": [
+            "Arnold Schwarzenegger"
+        ],
+        "Temporal signal": [
+            "No Signal"
+        ],
+        "Type": [
+            "Explicit"
+        ],
+        "Data source": "WebQuestions",
+        "Question creation date": "2013-10-18 (EMNLP 2013)"
+    },
+    {
+        "Id": 854,
+        "Question": "what year did baltimore ravens win the superbowl?",
+        "Gold answer": [
+            "Super Bowl XXXV",
+            "Super Bowl XLVII"
+        ],
+        "Temporal signal": [
+            "No signal"
+        ],
+        "Type": [
+            "Temp.Ans"
+        ],
+        "Data source": "WebQuestions",
+        "Question creation date": "2013-10-18 (EMNLP 2013)"
+    },
+    {
+        "Id": 855,
+        "Question": "who won 2001 fa cup?",
+        "Gold answer": [
+            "Liverpool F.C."
+        ],
+        "Temporal signal": [
+            "No Signal"
+        ],
+        "Type": [
+            "Explicit"
+        ],
+        "Data source": "WebQuestions",
+        "Question creation date": "2013-10-18 (EMNLP 2013)"
+    },
+    {
+        "Id": 856,
+        "Question": "who was the first leader of the afl?",
+        "Gold answer": [
+            "Samuel Gompers"
+        ],
+        "Temporal signal": [
+            "ORDINAL"
+        ],
+        "Type": [
+            "Ordinal"
+        ],
+        "Data source": "WebQuestions",
+        "Question creation date": "2013-10-18 (EMNLP 2013)"
+    },
+    {
+        "Id": 857,
+        "Question": "what team did joe hart play for before man city?",
+        "Gold answer": [
+            "Shrewsbury Town F.C."
+        ],
+        "Temporal signal": [
+            "BEFORE"
+        ],
+        "Type": [
+            "Implicit"
+        ],
+        "Data source": "WebQuestions",
+        "Question creation date": "2013-10-18 (EMNLP 2013)"
+    },
+    {
+        "Id": 858,
+        "Question": "who was us president when todd chretien was a teenager?",
+        "Gold answer": [
+            "Ronald Reagan"
+        ],
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Type": [
+            "Implicit"
+        ],
+        "Data source": "ComplexQuestions",
+        "Question creation date": "2016-12-13 (COLING 2016)"
+    },
+    {
+        "Id": 859,
+        "Question": "what does the mayan calendar say about 2012?",
+        "Gold answer": [
+            "The End Of Time"
+        ],
+        "Temporal signal": [
+            "No Signal"
+        ],
+        "Type": [
+            "Explicit"
+        ],
+        "Data source": "WebQuestions",
+        "Question creation date": "2013-10-18 (EMNLP 2013)"
+    },
+    {
+        "Id": 860,
+        "Question": "who was andy williams second wife?",
+        "Gold answer": [
+            "Debbie Meyer"
+        ],
+        "Temporal signal": [
+            "ORDINAL"
+        ],
+        "Type": [
+            "Ordinal"
+        ],
+        "Data source": "ComplexQuestions",
+        "Question creation date": "2016-12-13 (COLING 2016)"
+    },
+    {
+        "Id": 861,
+        "Question": "who played joe palooka in the 1934 palooka?",
+        "Gold answer": [
+            "Stuart Erwin"
+        ],
+        "Temporal signal": [
+            "No signal"
+        ],
+        "Type": [
+            "Explicit"
+        ],
+        "Data source": "ComplexQuestions",
+        "Question creation date": "2016-12-13 (COLING 2016)"
+    },
+    {
+        "Id": 862,
+        "Question": "what year did the mets win their first world series?",
+        "Gold answer": [
+            "1969 World Series"
+        ],
+        "Temporal signal": [
+            "ORDINAL"
+        ],
+        "Type": [
+            "Ordinal",
+            "Temp.Ans"
+        ],
+        "Data source": "WebQuestions",
+        "Question creation date": "2013-10-18 (EMNLP 2013)"
+    },
+    {
+        "Id": 863,
+        "Question": "which movie did deepak sareen direct in 1998?",
+        "Gold answer": [
+            "Jab Pyaar Kisise Hota Hai"
+        ],
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Type": [
+            "Explicit"
+        ],
+        "Data source": "ComplexQuestions",
+        "Question creation date": "2016-12-13 (COLING 2016)"
+    },
+    {
+        "Id": 864,
+        "Question": "which year was mohammed vi of morocco born in?",
+        "Gold answer": [
+            "1963"
+        ],
+        "Temporal signal": [
+            "No signal"
+        ],
+        "Type": [
+            "Temp.Ans"
+        ],
+        "Data source": "ComplexQuestions",
+        "Question creation date": "2016-12-13 (COLING 2016)"
+    },
+    {
+        "Id": 865,
+        "Question": "what country did italy conquer in 1939?",
+        "Gold answer": [
+            "Albania"
+        ],
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Type": [
+            "Explicit"
+        ],
+        "Data source": "ComplexQuestions",
+        "Question creation date": "2016-12-13 (COLING 2016)"
+    },
+    {
+        "Id": 866,
+        "Question": "which year was hanne ruud reksten born in?",
+        "Gold answer": [
+            "1985"
+        ],
+        "Temporal signal": [
+            "No signal"
+        ],
+        "Type": [
+            "Temp.Ans"
+        ],
+        "Data source": "ComplexQuestions",
+        "Question creation date": "2016-12-13 (COLING 2016)"
+    },
+    {
+        "Id": 867,
+        "Question": "who became president when roosevelt died in office?",
+        "Gold answer": [
+            "Harry S. Truman"
+        ],
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Type": [
+            "Implicit"
+        ],
+        "Data source": "WebQuestions",
+        "Question creation date": "2013-10-18 (EMNLP 2013)"
+    },
+    {
+        "Id": 868,
+        "Question": "who won best supporting actor when alfred junge won best art direction?",
+        "Gold answer": [
+            "Edmund Gwenn"
+        ],
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Type": [
+            "Implicit"
+        ],
+        "Data source": "ComplexQuestions",
+        "Question creation date": "2016-12-13 (COLING 2016)"
+    },
+    {
+        "Id": 869,
+        "Question": "when was the ss great britain established as a museum?",
+        "Gold answer": [
+            "2005"
+        ],
+        "Temporal signal": [
+            "No signal"
+        ],
+        "Type": [
+            "Temp.Ans"
+        ],
+        "Data source": "Free917",
+        "Question creation date": "2013-08-04 (ACL 2013)"
+    },
+    {
+        "Id": 870,
+        "Question": "who does brian dawkins play for 2011?",
+        "Gold answer": [
+            "Denver Broncos"
+        ],
+        "Temporal signal": [
+            "No Signal"
+        ],
+        "Type": [
+            "Explicit"
+        ],
+        "Data source": "WebQuestions",
+        "Question creation date": "2013-10-18 (EMNLP 2013)"
+    },
+    {
+        "Id": 871,
+        "Question": "what year did kobe bryant go to high school?",
+        "Gold answer": [
+            "1996"
+        ],
+        "Temporal signal": [
+            "No signal"
+        ],
+        "Type": [
+            "Temp.Ans"
+        ],
+        "Data source": "WebQuestions",
+        "Question creation date": "2013-10-18 (EMNLP 2013)"
+    },
+    {
+        "Id": 872,
+        "Question": "when did the last episode of six feet under air?",
+        "Gold answer": [
+            "2005-08-21"
+        ],
+        "Temporal signal": [
+            "ORDINAL"
+        ],
+        "Type": [
+            "Ordinal",
+            "Temp.Ans"
+        ],
+        "Data source": "Free917",
+        "Question creation date": "2013-08-04 (ACL 2013)"
+    },
+    {
+        "Id": 873,
+        "Question": "who was the first russian president?",
+        "Gold answer": [
+            "Boris Yeltsin"
+        ],
+        "Temporal signal": [
+            "ORDINAL"
+        ],
+        "Type": [
+            "Ordinal"
+        ],
+        "Data source": "WebQuestions",
+        "Question creation date": "2013-10-18 (EMNLP 2013)"
+    },
+    {
+        "Id": 874,
+        "Question": "who was governor of florida when revolutionary road was released?",
+        "Gold answer": [
+            "Charlie Crist"
+        ],
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Type": [
+            "Implicit"
+        ],
+        "Data source": "ComplexQuestions",
+        "Question creation date": "2016-12-13 (COLING 2016)"
+    },
+    {
+        "Id": 875,
+        "Question": "when was starry night painted?",
+        "Gold answer": [
+            "1889-06"
+        ],
+        "Temporal signal": [
+            "No signal"
+        ],
+        "Type": [
+            "Temp.Ans"
+        ],
+        "Data source": "Free917",
+        "Question creation date": "2013-08-04 (ACL 2013)"
+    },
+    {
+        "Id": 876,
+        "Question": "what year did michael jordan started his career?",
+        "Gold answer": [
+            "1984 NBA Draft"
+        ],
+        "Temporal signal": [
+            "No signal"
+        ],
+        "Type": [
+            "Temp.Ans"
+        ],
+        "Data source": "WebQuestions",
+        "Question creation date": "2013-10-18 (EMNLP 2013)"
+    },
+    {
+        "Id": 877,
+        "Question": "when was saint nicholas died?",
+        "Gold answer": [
+            "343-12-06"
+        ],
+        "Temporal signal": [
+            "No signal"
+        ],
+        "Type": [
+            "Temp.Ans"
+        ],
+        "Data source": "WebQuestions",
+        "Question creation date": "2013-10-18 (EMNLP 2013)"
+    },
+    {
+        "Id": 878,
+        "Question": "which album did the octopus project release in october 2005?",
+        "Gold answer": [
+            "One Ten Hundred Thousand Million"
+        ],
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Type": [
+            "Explicit"
+        ],
+        "Data source": "ComplexQuestions",
+        "Question creation date": "2016-12-13 (COLING 2016)"
+    },
+    {
+        "Id": 879,
+        "Question": "who is in charge of libya now?",
+        "Gold answer": [
+            "Ali Zeidan"
+        ],
+        "Temporal signal": [
+            "No Signal"
+        ],
+        "Type": [
+            "Explicit"
+        ],
+        "Data source": "WebQuestions",
+        "Question creation date": "2013-10-18 (EMNLP 2013)"
+    },
+    {
+        "Id": 880,
+        "Question": "who was the coach for spain in the 2010 fifa world cup?",
+        "Gold answer": [
+            "Vicente Del Bosque"
+        ],
+        "Temporal signal": [
+            "No Signal"
+        ],
+        "Type": [
+            "Explicit"
+        ],
+        "Data source": "ComplexQuestions",
+        "Question creation date": "2016-12-13 (COLING 2016)"
+    },
+    {
+        "Id": 881,
+        "Question": "what country gained its independence from britain in 1960?",
+        "Gold answer": [
+            "Nigeria",
+            "Cyprus"
+        ],
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Type": [
+            "Explicit"
+        ],
+        "Data source": "ComplexQuestions",
+        "Question creation date": "2016-12-13 (COLING 2016)"
+    },
+    {
+        "Id": 882,
+        "Question": "who founded the american federation of labor afl in 1886?",
+        "Gold answer": [
+            "Samuel Gompers"
+        ],
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Type": [
+            "Explicit"
+        ],
+        "Data source": "WebQuestions",
+        "Question creation date": "2013-10-18 (EMNLP 2013)"
+    },
+    {
+        "Id": 883,
+        "Question": "which album did zimmers hole release in 1999?",
+        "Gold answer": [
+            "Bound By Fire"
+        ],
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Type": [
+            "Explicit"
+        ],
+        "Data source": "ComplexQuestions",
+        "Question creation date": "2016-12-13 (COLING 2016)"
+    },
+    {
+        "Id": 884,
+        "Question": "what country did the vikings invade during the middle ages?",
+        "Gold answer": [
+            "Great Britain",
+            "England",
+            "Ireland",
+            "France",
+            "United States of America"
+        ],
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Type": [
+            "Implicit"
+        ],
+        "Data source": "ComplexQuestions",
+        "Question creation date": "2016-12-13 (COLING 2016)"
+    },
+    {
+        "Id": 885,
+        "Question": "what year was michael jordan rookie year?",
+        "Gold answer": [
+            "1984-85 NBA season"
+        ],
+        "Temporal signal": [
+            "No signal"
+        ],
+        "Type": [
+            "Temp.Ans"
+        ],
+        "Data source": "WebQuestions",
+        "Question creation date": "2013-10-18 (EMNLP 2013)"
+    },
+    {
+        "Id": 886,
+        "Question": "what type of government does iraq have 2012?",
+        "Gold answer": [
+            "Parliamentary system",
+            "Federation",
+            "Republic",
+            "Federal republic",
+            "Parliamentary republic"
+        ],
+        "Temporal signal": [
+            "No Signal"
+        ],
+        "Type": [
+            "Explicit"
+        ],
+        "Data source": "WebQuestions",
+        "Question creation date": "2013-10-18 (EMNLP 2013)"
+    },
+    {
+        "Id": 887,
+        "Question": "when did ian thorpe become famous?",
+        "Gold answer": [
+            "2000 Summer Olympics"
+        ],
+        "Temporal signal": [
+            "No signal"
+        ],
+        "Type": [
+            "Temp.Ans"
+        ],
+        "Data source": "WebQuestions",
+        "Question creation date": "2013-10-18 (EMNLP 2013)"
+    },
+    {
+        "Id": 888,
+        "Question": "when did the apple i stop being sold?",
+        "Gold answer": [
+            "1977-10"
+        ],
+        "Temporal signal": [
+            "No signal"
+        ],
+        "Type": [
+            "Temp.Ans"
+        ],
+        "Data source": "Free917",
+        "Question creation date": "2013-08-04 (ACL 2013)"
+    },
+    {
+        "Id": 889,
+        "Question": "who is ruling north korea now?",
+        "Gold answer": [
+            "Kim Jong-un"
+        ],
+        "Temporal signal": [
+            "No Signal"
+        ],
+        "Type": [
+            "Explicit"
+        ],
+        "Data source": "WebQuestions",
+        "Question creation date": "2013-10-18 (EMNLP 2013)"
+    },
+    {
+        "Id": 890,
+        "Question": "what year did ray allen join the nba?",
+        "Gold answer": [
+            "1996"
+        ],
+        "Temporal signal": [
+            "No signal"
+        ],
+        "Type": [
+            "Temp.Ans"
+        ],
+        "Data source": "WebQuestions",
+        "Question creation date": "2013-10-18 (EMNLP 2013)"
+    },
+    {
+        "Id": 891,
+        "Question": "which album did limbeck release in april 2007?",
+        "Gold answer": [
+            "Limbeck"
+        ],
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Type": [
+            "Explicit"
+        ],
+        "Data source": "ComplexQuestions",
+        "Question creation date": "2016-12-13 (COLING 2016)"
+    },
+    {
+        "Id": 892,
+        "Question": "what kind of government does iran have today?",
+        "Gold answer": [
+            "Islamic republic",
+            "Theocracy",
+            "Unitary state"
+        ],
+        "Temporal signal": [
+            "No Signal"
+        ],
+        "Type": [
+            "Explicit"
+        ],
+        "Data source": "WebQuestions",
+        "Question creation date": "2013-10-18 (EMNLP 2013)"
+    },
+    {
+        "Id": 893,
+        "Question": "what did abraham lincoln do before he was president?",
+        "Gold answer": [
+            "Statesman",
+            "Politician",
+            "Lawyer"
+        ],
+        "Temporal signal": [
+            "BEFORE"
+        ],
+        "Type": [
+            "Implicit"
+        ],
+        "Data source": "WebQuestions",
+        "Question creation date": "2013-10-18 (EMNLP 2013)"
+    },
+    {
+        "Id": 894,
+        "Question": "who became president when henry harrison died?",
+        "Gold answer": [
+            "John Tyler"
+        ],
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Type": [
+            "Implicit"
+        ],
+        "Data source": "WebQuestions",
+        "Question creation date": "2013-10-18 (EMNLP 2013)"
+    },
+    {
+        "Id": 895,
+        "Question": "who was nominated for the academy award for best director in 2011?",
+        "Gold answer": [
+            "Martin Scorsese",
+            "Michel Hazanavicius",
+            "Woody Allen",
+            "Terrence Malick",
+            "Alexander Payne"
+        ],
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Type": [
+            "Explicit"
+        ],
+        "Data source": "Free917",
+        "Question creation date": "2013-08-04 (ACL 2013)"
+    },
+    {
+        "Id": 896,
+        "Question": "which movie did anita yuen star in in 2004?",
+        "Gold answer": [
+            "Love Trilogy"
+        ],
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Type": [
+            "Explicit"
+        ],
+        "Data source": "ComplexQuestions",
+        "Question creation date": "2016-12-13 (COLING 2016)"
+    },
+    {
+        "Id": 897,
+        "Question": "who was the prime minister of pakistan in 1999?",
+        "Gold answer": [
+            "Nawaz Sharif"
+        ],
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Type": [
+            "Explicit"
+        ],
+        "Data source": "WebQuestions",
+        "Question creation date": "2013-10-18 (EMNLP 2013)"
+    },
+    {
+        "Id": 898,
+        "Question": "who was the president of us during the dawes plan?",
+        "Gold answer": [
+            "Calvin Coolidge"
+        ],
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Type": [
+            "Implicit"
+        ],
+        "Data source": "ComplexQuestions",
+        "Question creation date": "2016-12-13 (COLING 2016)"
+    },
+    {
+        "Id": 899,
+        "Question": "for what country did bernard lagat play in the 2000 summer olympics?",
+        "Gold answer": [
+            "Kenya"
+        ],
+        "Temporal signal": [
+            "No Signal"
+        ],
+        "Type": [
+            "Explicit"
+        ],
+        "Data source": "Free917",
+        "Question creation date": "2013-08-04 (ACL 2013)"
+    },
+    {
+        "Id": 900,
+        "Question": "who is president of pakistan 2012?",
+        "Gold answer": [
+            "Asif Ali Zardari"
+        ],
+        "Temporal signal": [
+            "No Signal"
+        ],
+        "Type": [
+            "Explicit"
+        ],
+        "Data source": "WebQuestions",
+        "Question creation date": "2013-10-18 (EMNLP 2013)"
+    },
+    {
+        "Id": 901,
+        "Question": "how old was woodrow wilson when he was elected president?",
+        "Gold answer": [
+            "Woodrow Wilson 1917 presidential inauguration",
+            "Woodrow Wilson 1913 presidential inauguration"
+        ],
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Type": [
+            "Implicit"
+        ],
+        "Data source": "WebQuestions",
+        "Question creation date": "2013-10-18 (EMNLP 2013)"
+    },
+    {
+        "Id": 902,
+        "Question": "when olympic games 2012 opening ceremony?",
+        "Gold answer": [
+            "2012-07-27"
+        ],
+        "Temporal signal": [
+            "No Signal"
+        ],
+        "Type": [
+            "Explicit",
+            "Temp.Ans"
+        ],
+        "Data source": "WebQuestions",
+        "Question creation date": "2013-10-18 (EMNLP 2013)"
+    },
+    {
+        "Id": 903,
+        "Question": "who does david beckham play for in 2013?",
+        "Gold answer": [
+            "Paris Saint-Germain F.C."
+        ],
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Type": [
+            "Explicit"
+        ],
+        "Data source": "WebQuestions",
+        "Question creation date": "2013-10-18 (EMNLP 2013)"
+    },
+    {
+        "Id": 904,
+        "Question": "what year did ted kennedy run for president?",
+        "Gold answer": [
+            "United States presidential election, 1980"
+        ],
+        "Temporal signal": [
+            "No signal"
+        ],
+        "Type": [
+            "Temp.Ans"
+        ],
+        "Data source": "WebQuestions",
+        "Question creation date": "2013-10-18 (EMNLP 2013)"
+    },
+    {
+        "Id": 905,
+        "Question": "what years did barry bonds play?",
+        "Gold answer": [
+            "2001 Major League Baseball Season",
+            "1990 Major League Baseball Season",
+            "1996 Major League Baseball Season",
+            "1993 Major League Baseball Season",
+            "1992 Major League Baseball Season",
+            "2002 Major League Baseball Season",
+            "2003 Major League Baseball season",
+            "2004 Major League Baseball season",
+            "1998 Major League Baseball Season"
+        ],
+        "Temporal signal": [
+            "No signal"
+        ],
+        "Type": [
+            "Temp.Ans"
+        ],
+        "Data source": "WebQuestions",
+        "Question creation date": "2013-10-18 (EMNLP 2013)"
+    },
+    {
+        "Id": 906,
+        "Question": "when did herbert hoover become president?",
+        "Gold answer": [
+            "1929-03-04"
+        ],
+        "Temporal signal": [
+            "No signal"
+        ],
+        "Type": [
+            "Temp.Ans"
+        ],
+        "Data source": "WebQuestions",
+        "Question creation date": "2013-10-18 (EMNLP 2013)"
+    },
+    {
+        "Id": 907,
+        "Question": "what was the first pope in history?",
+        "Gold answer": [
+            "Pope Sixtus II"
+        ],
+        "Temporal signal": [
+            "ORDINAL"
+        ],
+        "Type": [
+            "Ordinal"
+        ],
+        "Data source": "ComplexQuestions",
+        "Question creation date": "2016-12-13 (COLING 2016)"
+    },
+    {
+        "Id": 908,
+        "Question": "which album did dave vanian and the phantom chords release in 1995?",
+        "Gold answer": [
+            "David Vanian and the Phantom Chords"
+        ],
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Type": [
+            "Explicit"
+        ],
+        "Data source": "ComplexQuestions",
+        "Question creation date": "2016-12-13 (COLING 2016)"
+    },
+    {
+        "Id": 909,
+        "Question": "what movie did tom hanks won his first oscar?",
+        "Gold answer": [
+            "Big"
+        ],
+        "Temporal signal": [
+            "ORDINAL"
+        ],
+        "Type": [
+            "Ordinal"
+        ],
+        "Data source": "WebQuestions",
+        "Question creation date": "2013-10-18 (EMNLP 2013)"
+    },
+    {
+        "Id": 910,
+        "Question": "who was the united states president prior to calvin coolidge?",
+        "Gold answer": [
+            "Warren G. Harding"
+        ],
+        "Temporal signal": [
+            "BEFORE"
+        ],
+        "Type": [
+            "Implicit"
+        ],
+        "Data source": "ComplexQuestions",
+        "Question creation date": "2016-12-13 (COLING 2016)"
+    },
+    {
+        "Id": 911,
+        "Question": "when was the mark vii monorail introduced?",
+        "Gold answer": [
+            "2008"
+        ],
+        "Temporal signal": [
+            "No signal"
+        ],
+        "Type": [
+            "Temp.Ans"
+        ],
+        "Data source": "Free917",
+        "Question creation date": "2013-08-04 (ACL 2013)"
+    },
+    {
+        "Id": 912,
+        "Question": "what is the capital city of germany now?",
+        "Gold answer": [
+            "Berlin"
+        ],
+        "Temporal signal": [
+            "No Signal"
+        ],
+        "Type": [
+            "Explicit"
+        ],
+        "Data source": "WebQuestions",
+        "Question creation date": "2013-10-18 (EMNLP 2013)"
+    },
+    {
+        "Id": 913,
+        "Question": "which book did katherine hannigan write in 2004?",
+        "Gold answer": [
+            "Ida B."
+        ],
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Type": [
+            "Explicit"
+        ],
+        "Data source": "ComplexQuestions",
+        "Question creation date": "2016-12-13 (COLING 2016)"
+    },
+    {
+        "Id": 914,
+        "Question": "who does spiderman fight after the lizard?",
+        "Gold answer": [
+            "Shocker",
+            "Dr Octopus",
+            "the Green Goblin",
+            "Venom",
+            "Doc Ock"
+        ],
+        "Temporal signal": [
+            "AFTER"
+        ],
+        "Type": [
+            "Implicit"
+        ],
+        "Data source": "ComplexQuestions",
+        "Question creation date": "2016-12-13 (COLING 2016)"
+    },
+    {
+        "Id": 915,
+        "Question": "what team is hank baskett on 2010?",
+        "Gold answer": [
+            "Philadelphia Eagles",
+            "Minnesota Vikings"
+        ],
+        "Temporal signal": [
+            "No Signal"
+        ],
+        "Type": [
+            "Explicit"
+        ],
+        "Data source": "WebQuestions",
+        "Question creation date": "2013-10-18 (EMNLP 2013)"
+    },
+    {
+        "Id": 916,
+        "Question": "who is the new governor of florida 2011?",
+        "Gold answer": [
+            "Rick Scott",
+            "Charlie Crist"
+        ],
+        "Temporal signal": [
+            "No Signal"
+        ],
+        "Type": [
+            "Explicit"
+        ],
+        "Data source": "WebQuestions",
+        "Question creation date": "2013-10-18 (EMNLP 2013)"
+    },
+    {
+        "Id": 917,
+        "Question": "where do the florida marlins play spring training?",
+        "Gold answer": [
+            "University of Florida"
+        ],
+        "Temporal signal": [
+            "No Signal"
+        ],
+        "Type": [
+            "Explicit"
+        ],
+        "Data source": "WebQuestions",
+        "Question creation date": "2013-10-18 (EMNLP 2013)"
+    },
+    {
+        "Id": 918,
+        "Question": "what year did mcfly go to the future?",
+        "Gold answer": [
+            "1985"
+        ],
+        "Temporal signal": [
+            "No signal"
+        ],
+        "Type": [
+            "Temp.Ans"
+        ],
+        "Data source": "WebQuestions",
+        "Question creation date": "2013-10-18 (EMNLP 2013)"
+    },
+    {
+        "Id": 919,
+        "Question": "what year did poland surrender to germany?",
+        "Gold answer": [
+            "1939"
+        ],
+        "Temporal signal": [
+            "No signal"
+        ],
+        "Type": [
+            "Temp.Ans"
+        ],
+        "Data source": "ComplexQuestions",
+        "Question creation date": "2016-12-13 (COLING 2016)"
+    },
+    {
+        "Id": 920,
+        "Question": "when is the last time the denver broncos won the superbowl?",
+        "Gold answer": [
+            "Super Bowl XXXIII"
+        ],
+        "Temporal signal": [
+            "ORDINAL"
+        ],
+        "Type": [
+            "Ordinal",
+            "Temp.Ans"
+        ],
+        "Data source": "WebQuestions",
+        "Question creation date": "2013-10-18 (EMNLP 2013)"
+    },
+    {
+        "Id": 921,
+        "Question": "what year did volleyball first appeared in the olympics?",
+        "Gold answer": [
+            "1964"
+        ],
+        "Temporal signal": [
+            "ORDINAL"
+        ],
+        "Type": [
+            "Ordinal",
+            "Temp.Ans"
+        ],
+        "Data source": "ComplexQuestions",
+        "Question creation date": "2016-12-13 (COLING 2016)"
+    },
+    {
+        "Id": 922,
+        "Question": "who was president of the us when adele faccio was a teenager?",
+        "Gold answer": [
+            "Franklin D. Roosevelt"
+        ],
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Type": [
+            "Implicit"
+        ],
+        "Data source": "ComplexQuestions",
+        "Question creation date": "2016-12-13 (COLING 2016)"
+    },
+    {
+        "Id": 923,
+        "Question": "who was killed first tupac or biggie?",
+        "Gold answer": [
+            "Tupac"
+        ],
+        "Temporal signal": [
+            "ORDINAL"
+        ],
+        "Type": [
+            "Ordinal"
+        ],
+        "Data source": "WebQuestions",
+        "Question creation date": "2013-10-18 (EMNLP 2013)"
+    },
+    {
+        "Id": 924,
+        "Question": "what did barack obama do before he took office?",
+        "Gold answer": [
+            "Lawyer",
+            "Writer",
+            "Politician",
+            "Law professor"
+        ],
+        "Temporal signal": [
+            "BEFORE"
+        ],
+        "Type": [
+            "Implicit"
+        ],
+        "Data source": "WebQuestions",
+        "Question creation date": "2013-10-18 (EMNLP 2013)"
+    },
+    {
+        "Id": 925,
+        "Question": "who is the prime minister of spain in 2011?",
+        "Gold answer": [
+            "Juan Carlos I of Spain",
+            "Jos\u00e9 Luis Rodr\u00edguez Zapatero",
+            "Mariano Rajoy"
+        ],
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Type": [
+            "Explicit"
+        ],
+        "Data source": "ComplexQuestions",
+        "Question creation date": "2016-12-13 (COLING 2016)"
+    },
+    {
+        "Id": 926,
+        "Question": "who won the nobel peace prize in 2011 for physics?",
+        "Gold answer": [
+            "Ellen Johnson Sirleaf",
+            "Tawakkol Karman",
+            "Leymah Gbowee"
+        ],
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Type": [
+            "Explicit"
+        ],
+        "Data source": "WebQuestions",
+        "Question creation date": "2013-10-18 (EMNLP 2013)"
+    },
+    {
+        "Id": 927,
+        "Question": "who was us president when atlas shrugged was published?",
+        "Gold answer": [
+            "John F. Kennedy"
+        ],
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Type": [
+            "Implicit"
+        ],
+        "Data source": "ComplexQuestions",
+        "Question creation date": "2016-12-13 (COLING 2016)"
+    },
+    {
+        "Id": 928,
+        "Question": "which team does ronaldinho play for 2013?",
+        "Gold answer": [
+            "Clube Atl\u00e9tico Mineiro"
+        ],
+        "Temporal signal": [
+            "No Signal"
+        ],
+        "Type": [
+            "Explicit"
+        ],
+        "Data source": "WebQuestions",
+        "Question creation date": "2013-10-18 (EMNLP 2013)"
+    },
+    {
+        "Id": 929,
+        "Question": "when did the chicago bulls win their first championship?",
+        "Gold answer": [
+            "1991 NBA Finals"
+        ],
+        "Temporal signal": [
+            "ORDINAL"
+        ],
+        "Type": [
+            "Ordinal",
+            "Temp.Ans"
+        ],
+        "Data source": "WebQuestions",
+        "Question creation date": "2013-10-18 (EMNLP 2013)"
+    },
+    {
+        "Id": 930,
+        "Question": "where did the pilgrims come from before landing in america?",
+        "Gold answer": [
+            "England"
+        ],
+        "Temporal signal": [
+            "BEFORE"
+        ],
+        "Type": [
+            "Implicit"
+        ],
+        "Data source": "ComplexQuestions",
+        "Question creation date": "2016-12-13 (COLING 2016)"
+    },
+    {
+        "Id": 931,
+        "Question": "when was the sony nex-5 released?",
+        "Gold answer": [
+            "2010-05-11"
+        ],
+        "Temporal signal": [
+            "No signal"
+        ],
+        "Type": [
+            "Temp.Ans"
+        ],
+        "Data source": "Free917",
+        "Question creation date": "2013-08-04 (ACL 2013)"
+    },
+    {
+        "Id": 932,
+        "Question": "who was governor of minnesota when flightplan was released?",
+        "Gold answer": [
+            "Tim Pawlenty"
+        ],
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Type": [
+            "Implicit"
+        ],
+        "Data source": "ComplexQuestions",
+        "Question creation date": "2016-12-13 (COLING 2016)"
+    },
+    {
+        "Id": 933,
+        "Question": "what happened after anne frank died?",
+        "Gold answer": [
+            "Bergen-Belsen concentration camp was liberated"
+        ],
+        "Temporal signal": [
+            "AFTER"
+        ],
+        "Type": [
+            "Implicit"
+        ],
+        "Data source": "WebQuestions",
+        "Question creation date": "2013-10-18 (EMNLP 2013)"
+    },
+    {
+        "Id": 934,
+        "Question": "what years have the steelers won the super bowl?",
+        "Gold answer": [
+            "Super Bowl IX",
+            "Super Bowl XLIII",
+            "Super Bowl X",
+            "Super Bowl XL",
+            "Super Bowl XIV",
+            "Super Bowl XIII"
+        ],
+        "Temporal signal": [
+            "No signal"
+        ],
+        "Type": [
+            "Temp.Ans"
+        ],
+        "Data source": "WebQuestions",
+        "Question creation date": "2013-10-18 (EMNLP 2013)"
+    },
+    {
+        "Id": 935,
+        "Question": "who was governor of minnesota when alatriste was released?",
+        "Gold answer": [
+            "Tim Pawlenty"
+        ],
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Type": [
+            "Implicit"
+        ],
+        "Data source": "ComplexQuestions",
+        "Question creation date": "2016-12-13 (COLING 2016)"
+    },
+    {
+        "Id": 936,
+        "Question": "who was president of the us when mark willson rose was a teenager?",
+        "Gold answer": [
+            "Franklin D. Roosevelt"
+        ],
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Type": [
+            "Implicit"
+        ],
+        "Data source": "ComplexQuestions",
+        "Question creation date": "2016-12-13 (COLING 2016)"
+    },
+    {
+        "Id": 937,
+        "Question": "what club did aguero play for before man city?",
+        "Gold answer": [
+            "Atl\u00e9tico Madrid"
+        ],
+        "Temporal signal": [
+            "BEFORE"
+        ],
+        "Type": [
+            "Implicit"
+        ],
+        "Data source": "WebQuestions",
+        "Question creation date": "2013-10-18 (EMNLP 2013)"
+    },
+    {
+        "Id": 938,
+        "Question": "which film starring vyacheslav tikhonov was released in 1994?",
+        "Gold answer": [
+            "Burnt by the Sun"
+        ],
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Type": [
+            "Explicit"
+        ],
+        "Data source": "ComplexQuestions",
+        "Question creation date": "2016-12-13 (COLING 2016)"
+    },
+    {
+        "Id": 939,
+        "Question": "what year did the new york mets start?",
+        "Gold answer": [
+            "1962"
+        ],
+        "Temporal signal": [
+            "No signal"
+        ],
+        "Type": [
+            "Temp.Ans"
+        ],
+        "Data source": "WebQuestions",
+        "Question creation date": "2013-10-18 (EMNLP 2013)"
+    },
+    {
+        "Id": 940,
+        "Question": "who does david james play for 2011?",
+        "Gold answer": [
+            "Bristol City F.C."
+        ],
+        "Temporal signal": [
+            "No Signal"
+        ],
+        "Type": [
+            "Explicit"
+        ],
+        "Data source": "WebQuestions",
+        "Question creation date": "2013-10-18 (EMNLP 2013)"
+    },
+    {
+        "Id": 941,
+        "Question": "what contribution did hooke made to science in 1665?",
+        "Gold answer": [
+            "Micrographia"
+        ],
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Type": [
+            "Explicit"
+        ],
+        "Data source": "WebQuestions",
+        "Question creation date": "2013-10-18 (EMNLP 2013)"
+    },
+    {
+        "Id": 942,
+        "Question": "what year was the first miss america pageant?",
+        "Gold answer": [
+            "1921"
+        ],
+        "Temporal signal": [
+            "ORDINAL"
+        ],
+        "Type": [
+            "Ordinal",
+            "Temp.Ans"
+        ],
+        "Data source": "WebQuestions",
+        "Question creation date": "2013-10-18 (EMNLP 2013)"
+    },
+    {
+        "Id": 943,
+        "Question": "when was the movie big daddy released?",
+        "Gold answer": [
+            "1999-06-25"
+        ],
+        "Temporal signal": [
+            "No signal"
+        ],
+        "Type": [
+            "Temp.Ans"
+        ],
+        "Data source": "Free917",
+        "Question creation date": "2013-08-04 (ACL 2013)"
+    },
+    {
+        "Id": 944,
+        "Question": "in 1982 who were the primetieme emmy award for comedy series nominees?",
+        "Gold answer": [
+            "John Rappaport",
+            "Burt Metcalfe",
+            "Howard Gewirtz",
+            "Frank Dungan",
+            "Thad Mumford",
+            "James L. Brooks",
+            "Stan Daniels",
+            "Ed. Weinberger",
+            "Richard Sakai",
+            "Steve Marshall",
+            "Glen Charles",
+            "Les Charles",
+            "Hugh Wilson",
+            "Blake Hunter",
+            "Ken Estin",
+            "Jeff Stein",
+            "April Kelly",
+            "Dennis Koenig",
+            "Mel Tolkin",
+            "George Eckstein",
+            "Ernest Chambers",
+            "Jim Parker",
+            "Bob Brunner",
+            "Ken Hecht",
+            "Peter Torokvei",
+            "Danny Arnold",
+            "Roland Kibbee",
+            "Dan Guntzelman",
+            "Gary Shaw",
+            "Ian Praiser",
+            "Dan Wilcox"
+        ],
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Type": [
+            "Explicit"
+        ],
+        "Data source": "Free917",
+        "Question creation date": "2013-08-04 (ACL 2013)"
+    },
+    {
+        "Id": 945,
+        "Question": "when did baltimore orioles win the world series?",
+        "Gold answer": [
+            "1983 World Series",
+            "1966 World Series",
+            "1970 World Series"
+        ],
+        "Temporal signal": [
+            "No signal"
+        ],
+        "Type": [
+            "Temp.Ans"
+        ],
+        "Data source": "WebQuestions",
+        "Question creation date": "2013-10-18 (EMNLP 2013)"
+    },
+    {
+        "Id": 946,
+        "Question": "who are the current senators from missouri?",
+        "Gold answer": [
+            "Claire McCaskill",
+            "Roy Blunt"
+        ],
+        "Temporal signal": [
+            "No Signal"
+        ],
+        "Type": [
+            "Explicit"
+        ],
+        "Data source": "WebQuestions",
+        "Question creation date": "2013-10-18 (EMNLP 2013)"
+    },
+    {
+        "Id": 947,
+        "Question": "who is the president of israel 2012?",
+        "Gold answer": [
+            "Shimon Peres"
+        ],
+        "Temporal signal": [
+            "No Signal"
+        ],
+        "Type": [
+            "Explicit"
+        ],
+        "Data source": "WebQuestions",
+        "Question creation date": "2013-10-18 (EMNLP 2013)"
+    },
+    {
+        "Id": 948,
+        "Question": "who was governor of minnesota when flight from death was released?",
+        "Gold answer": [
+            "Tim Pawlenty"
+        ],
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Type": [
+            "Implicit"
+        ],
+        "Data source": "ComplexQuestions",
+        "Question creation date": "2016-12-13 (COLING 2016)"
+    },
+    {
+        "Id": 949,
+        "Question": "who was governor of north carolina when intern academy was released?",
+        "Gold answer": [
+            "Mike Easley"
+        ],
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Type": [
+            "Implicit"
+        ],
+        "Data source": "ComplexQuestions",
+        "Question creation date": "2016-12-13 (COLING 2016)"
+    },
+    {
+        "Id": 950,
+        "Question": "which album did the crystal method release in september 1997?",
+        "Gold answer": [
+            "Vegas"
+        ],
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Type": [
+            "Explicit"
+        ],
+        "Data source": "ComplexQuestions",
+        "Question creation date": "2016-12-13 (COLING 2016)"
+    },
+    {
+        "Id": 951,
+        "Question": "who is lamar odom playing for this year?",
+        "Gold answer": [
+            "Los Angeles Clippers"
+        ],
+        "Temporal signal": [
+            "No Signal"
+        ],
+        "Type": [
+            "Explicit"
+        ],
+        "Data source": "WebQuestions",
+        "Question creation date": "2013-10-18 (EMNLP 2013)"
+    },
+    {
+        "Id": 952,
+        "Question": "what country did america invade after 9 11?",
+        "Gold answer": [
+            "Iraq",
+            "Afghanistan"
+        ],
+        "Temporal signal": [
+            "AFTER"
+        ],
+        "Type": [
+            "Implicit"
+        ],
+        "Data source": "ComplexQuestions",
+        "Question creation date": "2016-12-13 (COLING 2016)"
+    },
+    {
+        "Id": 953,
+        "Question": "when was barack obama elected president?",
+        "Gold answer": [
+            "2008"
+        ],
+        "Temporal signal": [
+            "No signal"
+        ],
+        "Type": [
+            "Temp.Ans"
+        ],
+        "Data source": "WebQuestions",
+        "Question creation date": "2013-10-18 (EMNLP 2013)"
+    },
+    {
+        "Id": 954,
+        "Question": "what year was the first miss america pageant held?",
+        "Gold answer": [
+            "Miss America 1921"
+        ],
+        "Temporal signal": [
+            "ORDINAL"
+        ],
+        "Type": [
+            "Ordinal",
+            "Temp.Ans"
+        ],
+        "Data source": "WebQuestions",
+        "Question creation date": "2013-10-18 (EMNLP 2013)"
+    },
+    {
+        "Id": 955,
+        "Question": "what is the very first harry potter book?",
+        "Gold answer": [
+            "Harry Potter and the Philosopher's Stone"
+        ],
+        "Temporal signal": [
+            "ORDINAL"
+        ],
+        "Type": [
+            "Ordinal"
+        ],
+        "Data source": "WebQuestions",
+        "Question creation date": "2013-10-18 (EMNLP 2013)"
+    },
+    {
+        "Id": 956,
+        "Question": "when does ziva start on ncis?",
+        "Gold answer": [
+            "NCIS - Season 3"
+        ],
+        "Temporal signal": [
+            "No signal"
+        ],
+        "Type": [
+            "Temp.Ans"
+        ],
+        "Data source": "WebQuestions",
+        "Question creation date": "2013-10-18 (EMNLP 2013)"
+    },
+    {
+        "Id": 957,
+        "Question": "which album did dave seaman release in august 1999?",
+        "Gold answer": [
+            "Global Underground 012"
+        ],
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Type": [
+            "Explicit"
+        ],
+        "Data source": "ComplexQuestions",
+        "Question creation date": "2016-12-13 (COLING 2016)"
+    },
+    {
+        "Id": 958,
+        "Question": "what is the transmission of a 2011 honda fit?",
+        "Gold answer": [
+            "5 Speed Manual"
+        ],
+        "Temporal signal": [
+            "No Signal"
+        ],
+        "Type": [
+            "Explicit"
+        ],
+        "Data source": "Free917",
+        "Question creation date": "2013-08-04 (ACL 2013)"
+    },
+    {
+        "Id": 959,
+        "Question": "who was the first actor to play edward quartermaine?",
+        "Gold answer": [
+            "David Lewis"
+        ],
+        "Temporal signal": [
+            "ORDINAL"
+        ],
+        "Type": [
+            "Ordinal"
+        ],
+        "Data source": "WebQuestions",
+        "Question creation date": "2013-10-18 (EMNLP 2013)"
+    },
+    {
+        "Id": 960,
+        "Question": "when did sean murray first appear on ncis?",
+        "Gold answer": [
+            "2003"
+        ],
+        "Temporal signal": [
+            "ORDINAL"
+        ],
+        "Type": [
+            "Ordinal",
+            "Temp.Ans"
+        ],
+        "Data source": "WebQuestions",
+        "Question creation date": "2013-10-18 (EMNLP 2013)"
+    },
+    {
+        "Id": 961,
+        "Question": "who was manchuria invaded by in 1931?",
+        "Gold answer": [
+            "Japan",
+            "Imperial Japan",
+            "the Japanese Army",
+            "the Kwantung Army of the Empire of Japan",
+            "the Japanese"
+        ],
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Type": [
+            "Explicit"
+        ],
+        "Data source": "ComplexQuestions",
+        "Question creation date": "2016-12-13 (COLING 2016)"
+    },
+    {
+        "Id": 962,
+        "Question": "who rules denmark right now?",
+        "Gold answer": [
+            "Helle Thorning-Schmidt"
+        ],
+        "Temporal signal": [
+            "No Signal"
+        ],
+        "Type": [
+            "Explicit"
+        ],
+        "Data source": "WebQuestions",
+        "Question creation date": "2013-10-18 (EMNLP 2013)"
+    },
+    {
+        "Id": 963,
+        "Question": "when did juventus win the champions league?",
+        "Gold answer": [
+            "1996 UEFA Champions League Final"
+        ],
+        "Temporal signal": [
+            "No signal"
+        ],
+        "Type": [
+            "Temp.Ans"
+        ],
+        "Data source": "WebQuestions",
+        "Question creation date": "2013-10-18 (EMNLP 2013)"
+    },
+    {
+        "Id": 964,
+        "Question": "what does rupert murdoch own 2012?",
+        "Gold answer": [
+            "STAR India",
+            "Fox News Channel",
+            "Sky Italia",
+            "News Corporation",
+            "British Sky Broadcasting",
+            "Fox Broadcasting Company"
+        ],
+        "Temporal signal": [
+            "No Signal"
+        ],
+        "Type": [
+            "Explicit"
+        ],
+        "Data source": "WebQuestions",
+        "Question creation date": "2013-10-18 (EMNLP 2013)"
+    },
+    {
+        "Id": 965,
+        "Question": "where was the first ford motor company located?",
+        "Gold answer": [
+            "Dearborn"
+        ],
+        "Temporal signal": [
+            "ORDINAL"
+        ],
+        "Type": [
+            "Ordinal"
+        ],
+        "Data source": "WebQuestions",
+        "Question creation date": "2013-10-18 (EMNLP 2013)"
+    },
+    {
+        "Id": 966,
+        "Question": "when did joe mcelderry won x factor?",
+        "Gold answer": [
+            "The X Factor (UK) - Season 6"
+        ],
+        "Temporal signal": [
+            "No signal"
+        ],
+        "Type": [
+            "Temp.Ans"
+        ],
+        "Data source": "WebQuestions",
+        "Question creation date": "2013-10-18 (EMNLP 2013)"
+    },
+    {
+        "Id": 967,
+        "Question": "who hosted the 2003 cricket world cup?",
+        "Gold answer": [
+            "South Africa",
+            "Zimbabwe",
+            "Kenya"
+        ],
+        "Temporal signal": [
+            "No Signal"
+        ],
+        "Type": [
+            "Explicit"
+        ],
+        "Data source": "Free917",
+        "Question creation date": "2013-08-04 (ACL 2013)"
+    },
+    {
+        "Id": 968,
+        "Question": "what land did the us buy from france in 1803?",
+        "Gold answer": [
+            "Louisiana"
+        ],
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Type": [
+            "Explicit"
+        ],
+        "Data source": "ComplexQuestions",
+        "Question creation date": "2016-12-13 (COLING 2016)"
+    },
+    {
+        "Id": 969,
+        "Question": "who was governor of minnesota when beverly hills chihuahua was released?",
+        "Gold answer": [
+            "Tim Pawlenty"
+        ],
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Type": [
+            "Implicit"
+        ],
+        "Data source": "ComplexQuestions",
+        "Question creation date": "2016-12-13 (COLING 2016)"
+    },
+    {
+        "Id": 970,
+        "Question": "when did ted kulongoski become governor of oregon?",
+        "Gold answer": [
+            "2003-01-13"
+        ],
+        "Temporal signal": [
+            "No signal"
+        ],
+        "Type": [
+            "Temp.Ans"
+        ],
+        "Data source": "ComplexQuestions",
+        "Question creation date": "2016-12-13 (COLING 2016)"
+    },
+    {
+        "Id": 971,
+        "Question": "what kind of government does the united states have currently?",
+        "Gold answer": [
+            "Presidential system",
+            "Federal republic",
+            "Constitutional republic"
+        ],
+        "Temporal signal": [
+            "No Signal"
+        ],
+        "Type": [
+            "Explicit"
+        ],
+        "Data source": "WebQuestions",
+        "Question creation date": "2013-10-18 (EMNLP 2013)"
+    },
+    {
+        "Id": 972,
+        "Question": "who does kurt busch drive for now?",
+        "Gold answer": [
+            "Furniture Row Racing"
+        ],
+        "Temporal signal": [
+            "No Signal"
+        ],
+        "Type": [
+            "Explicit"
+        ],
+        "Data source": "WebQuestions",
+        "Question creation date": "2013-10-18 (EMNLP 2013)"
+    },
+    {
+        "Id": 973,
+        "Question": "when did the lions last win a thanksgiving game?",
+        "Gold answer": [
+            "Yearly"
+        ],
+        "Temporal signal": [
+            "ORDINAL"
+        ],
+        "Type": [
+            "Ordinal",
+            "Temp.Ans"
+        ],
+        "Data source": "WebQuestions",
+        "Question creation date": "2013-10-18 (EMNLP 2013)"
+    },
+    {
+        "Id": 974,
+        "Question": "which book did roald dahl write in 1990?",
+        "Gold answer": [
+            "Esio Trot"
+        ],
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Type": [
+            "Explicit"
+        ],
+        "Data source": "ComplexQuestions",
+        "Question creation date": "2016-12-13 (COLING 2016)"
+    },
+    {
+        "Id": 975,
+        "Question": "who does cristiano ronaldo play for now 2011?",
+        "Gold answer": [
+            "Real Madrid C.F."
+        ],
+        "Temporal signal": [
+            "No Signal"
+        ],
+        "Type": [
+            "Explicit"
+        ],
+        "Data source": "WebQuestions",
+        "Question creation date": "2013-10-18 (EMNLP 2013)"
+    },
+    {
+        "Id": 976,
+        "Question": "when was the high court of australia founded?",
+        "Gold answer": [
+            "1901"
+        ],
+        "Temporal signal": [
+            "No signal"
+        ],
+        "Type": [
+            "Temp.Ans"
+        ],
+        "Data source": "Free917",
+        "Question creation date": "2013-08-04 (ACL 2013)"
+    },
+    {
+        "Id": 977,
+        "Question": "who was the commander-in-chief of the colonial army during the revolutionary war?",
+        "Gold answer": [
+            "George Washington"
+        ],
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Type": [
+            "Implicit"
+        ],
+        "Data source": "ComplexQuestions",
+        "Question creation date": "2016-12-13 (COLING 2016)"
+    },
+    {
+        "Id": 978,
+        "Question": "which album did jackie mclean release in 2005?",
+        "Gold answer": [
+            "Consequence"
+        ],
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Type": [
+            "Explicit"
+        ],
+        "Data source": "ComplexQuestions",
+        "Question creation date": "2016-12-13 (COLING 2016)"
+    },
+    {
+        "Id": 979,
+        "Question": "when was the 2012 calgary stampede?",
+        "Gold answer": [
+            "from 2012-07-06 to 2012-07-15"
+        ],
+        "Temporal signal": [
+            "No Signal"
+        ],
+        "Type": [
+            "Explicit",
+            "Temp.Ans"
+        ],
+        "Data source": "WebQuestions",
+        "Question creation date": "2013-10-18 (EMNLP 2013)"
+    },
+    {
+        "Id": 980,
+        "Question": "which kennedy died first?",
+        "Gold answer": [
+            "John F. Kennedy"
+        ],
+        "Temporal signal": [
+            "ORDINAL"
+        ],
+        "Type": [
+            "Ordinal"
+        ],
+        "Data source": "WebQuestions",
+        "Question creation date": "2013-10-18 (EMNLP 2013)"
+    },
+    {
+        "Id": 981,
+        "Question": "who was prime minister of great britain during the defense of the great wall?",
+        "Gold answer": [
+            "Ramsay Macdonald"
+        ],
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Type": [
+            "Implicit"
+        ],
+        "Data source": "ComplexQuestions",
+        "Question creation date": "2016-12-13 (COLING 2016)"
+    },
+    {
+        "Id": 982,
+        "Question": "who won the state of texas in 2008?",
+        "Gold answer": [
+            "John McCain"
+        ],
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Type": [
+            "Explicit"
+        ],
+        "Data source": "WebQuestions",
+        "Question creation date": "2013-10-18 (EMNLP 2013)"
+    },
+    {
+        "Id": 983,
+        "Question": "which album did ramy ayach release in december 2006?",
+        "Gold answer": [
+            "Habbaytak ana"
+        ],
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Type": [
+            "Explicit"
+        ],
+        "Data source": "ComplexQuestions",
+        "Question creation date": "2016-12-13 (COLING 2016)"
+    },
+    {
+        "Id": 984,
+        "Question": "who was the president of us when ezra taft benson was born?",
+        "Gold answer": [
+            "William McKinley"
+        ],
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Type": [
+            "Implicit"
+        ],
+        "Data source": "ComplexQuestions",
+        "Question creation date": "2016-12-13 (COLING 2016)"
+    },
+    {
+        "Id": 985,
+        "Question": "where did theodore roosevelt live before he became president?",
+        "Gold answer": [
+            "New York City"
+        ],
+        "Temporal signal": [
+            "BEFORE"
+        ],
+        "Type": [
+            "Implicit"
+        ],
+        "Data source": "WebQuestions",
+        "Question creation date": "2013-10-18 (EMNLP 2013)"
+    },
+    {
+        "Id": 986,
+        "Question": "which album did toad the wet sprocket release in 1995?",
+        "Gold answer": [
+            "In Light Syrup"
+        ],
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Type": [
+            "Explicit"
+        ],
+        "Data source": "ComplexQuestions",
+        "Question creation date": "2016-12-13 (COLING 2016)"
+    },
+    {
+        "Id": 987,
+        "Question": "what team does reggie bush play for 2011?",
+        "Gold answer": [
+            "Miami Dolphins"
+        ],
+        "Temporal signal": [
+            "No Signal"
+        ],
+        "Type": [
+            "Explicit"
+        ],
+        "Data source": "WebQuestions",
+        "Question creation date": "2013-10-18 (EMNLP 2013)"
+    },
+    {
+        "Id": 988,
+        "Question": "who won the 2000 fa cup final?",
+        "Gold answer": [
+            "Chelsea FC"
+        ],
+        "Temporal signal": [
+            "No Signal"
+        ],
+        "Type": [
+            "Explicit"
+        ],
+        "Data source": "WebQuestions",
+        "Question creation date": "2013-10-18 (EMNLP 2013)"
+    },
+    {
+        "Id": 989,
+        "Question": "what years have the cubs been in the world series?",
+        "Gold answer": [
+            "1908 World Series",
+            "1907 World Series"
+        ],
+        "Temporal signal": [
+            "No signal"
+        ],
+        "Type": [
+            "Temp.Ans"
+        ],
+        "Data source": "WebQuestions",
+        "Question creation date": "2013-10-18 (EMNLP 2013)"
+    },
+    {
+        "Id": 990,
+        "Question": "what did taylor swift do at the vmas 2012?",
+        "Gold answer": [
+            "Grammy Award for Best Country Solo Performance"
+        ],
+        "Temporal signal": [
+            "No Signal"
+        ],
+        "Type": [
+            "Explicit"
+        ],
+        "Data source": "WebQuestions",
+        "Question creation date": "2013-10-18 (EMNLP 2013)"
+    },
+    {
+        "Id": 991,
+        "Question": "when was target founded?",
+        "Gold answer": [
+            "1902"
+        ],
+        "Temporal signal": [
+            "No signal"
+        ],
+        "Type": [
+            "Temp.Ans"
+        ],
+        "Data source": "Free917",
+        "Question creation date": "2013-08-04 (ACL 2013)"
+    },
+    {
+        "Id": 992,
+        "Question": "what year did aaron rodgers get drafted?",
+        "Gold answer": [
+            "2005 NFL Draft"
+        ],
+        "Temporal signal": [
+            "No signal"
+        ],
+        "Type": [
+            "Temp.Ans"
+        ],
+        "Data source": "WebQuestions",
+        "Question creation date": "2013-10-18 (EMNLP 2013)"
+    },
+    {
+        "Id": 993,
+        "Question": "which movie did jaco van dormael direct in 2009?",
+        "Gold answer": [
+            "Mr. Nobody"
+        ],
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Type": [
+            "Explicit"
+        ],
+        "Data source": "ComplexQuestions",
+        "Question creation date": "2016-12-13 (COLING 2016)"
+    },
+    {
+        "Id": 994,
+        "Question": "which album did a band called pain release in 2005?",
+        "Gold answer": [
+            "Broken Dreams"
+        ],
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Type": [
+            "Explicit"
+        ],
+        "Data source": "ComplexQuestions",
+        "Question creation date": "2016-12-13 (COLING 2016)"
+    },
+    {
+        "Id": 995,
+        "Question": "which movie did giri babu star in in 2008?",
+        "Gold answer": [
+            "Krishna",
+            "Nee Sneham"
+        ],
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Type": [
+            "Explicit"
+        ],
+        "Data source": "ComplexQuestions",
+        "Question creation date": "2016-12-13 (COLING 2016)"
+    },
+    {
+        "Id": 996,
+        "Question": "who was johnny cash's first wife?",
+        "Gold answer": [
+            "Vivian Liberto"
+        ],
+        "Temporal signal": [
+            "ORDINAL"
+        ],
+        "Type": [
+            "Ordinal"
+        ],
+        "Data source": "WebQuestions",
+        "Question creation date": "2013-10-18 (EMNLP 2013)"
+    },
+    {
+        "Id": 997,
+        "Question": "who was the british leader during the cold war?",
+        "Gold answer": [
+            "Winston Churchill",
+            "Clement Attlee",
+            "Anthony Eden",
+            "Alec Douglas-Home",
+            "Harold Macmillan",
+            "Harold Wilson"
+        ],
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Type": [
+            "Implicit"
+        ],
+        "Data source": "ComplexQuestions",
+        "Question creation date": "2016-12-13 (COLING 2016)"
+    },
+    {
+        "Id": 998,
+        "Question": "who was the first president to visit all of the first states in the us?",
+        "Gold answer": [
+            "George Washington"
+        ],
+        "Temporal signal": [
+            "ORDINAL"
+        ],
+        "Type": [
+            "Ordinal"
+        ],
+        "Data source": "ComplexQuestions",
+        "Question creation date": "2016-12-13 (COLING 2016)"
+    },
+    {
+        "Id": 999,
+        "Question": "when did william golding write lord of the flies?",
+        "Gold answer": [
+            "1954"
+        ],
+        "Temporal signal": [
+            "No signal"
+        ],
+        "Type": [
+            "Temp.Ans"
+        ],
+        "Data source": "ComplexQuestions",
+        "Question creation date": "2016-12-13 (COLING 2016)"
+    },
+    {
+        "Id": 1000,
+        "Question": "what to do in chicago this weekend with kids?",
+        "Gold answer": [
+            "Lincoln Park Zoo",
+            "DuSable Museum of African American History",
+            "Wrigley Field",
+            "Willis Tower",
+            "Polish Museum of America",
+            "Gilmore Car Museum",
+            "National Museum of Mexican Art",
+            "Shedd Aquarium",
+            "John Hancock Center",
+            "Field Museum of Natural History"
+        ],
+        "Temporal signal": [
+            "No Signal"
+        ],
+        "Type": [
+            "Explicit"
+        ],
+        "Data source": "WebQuestions",
+        "Question creation date": "2013-10-18 (EMNLP 2013)"
+    },
+    {
+        "Id": 1001,
+        "Question": "what years have the dodgers won the world series?",
+        "Gold answer": [
+            "1988 World Series",
+            "1959 World Series",
+            "1963 World Series",
+            "1965 World Series",
+            "1981 World Series"
+        ],
+        "Temporal signal": [
+            "No signal"
+        ],
+        "Type": [
+            "Temp.Ans"
+        ],
+        "Data source": "WebQuestions",
+        "Question creation date": "2013-10-18 (EMNLP 2013)"
+    },
+    {
+        "Id": 1002,
+        "Question": "what movies has taylor lautner been in 2011?",
+        "Gold answer": [
+            "Field of Dreams 2: Lockout",
+            "Abduction",
+            "The Twilight Saga: Breaking Dawn \u2013 Part 1"
+        ],
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Type": [
+            "Explicit"
+        ],
+        "Data source": "WebQuestions",
+        "Question creation date": "2013-10-18 (EMNLP 2013)"
+    },
+    {
+        "Id": 1003,
+        "Question": "who does jeremy shockey play for in 2012?",
+        "Gold answer": [
+            "Carolina Panthers"
+        ],
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Type": [
+            "Explicit"
+        ],
+        "Data source": "WebQuestions",
+        "Question creation date": "2013-10-18 (EMNLP 2013)"
+    },
+    {
+        "Id": 1004,
+        "Question": "which album did cosima de vito release in october 2004?",
+        "Gold answer": [
+            "Cosima"
+        ],
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Type": [
+            "Explicit"
+        ],
+        "Data source": "ComplexQuestions",
+        "Question creation date": "2016-12-13 (COLING 2016)"
+    },
+    {
+        "Id": 1005,
+        "Question": "what club does ronaldinho play for 2012?",
+        "Gold answer": [
+            "Clube de Regatas do Flamengo"
+        ],
+        "Temporal signal": [
+            "No Signal"
+        ],
+        "Type": [
+            "Explicit"
+        ],
+        "Data source": "WebQuestions",
+        "Question creation date": "2013-10-18 (EMNLP 2013)"
+    },
+    {
+        "Id": 1006,
+        "Question": "who founded the pittsburgh steelers in 1933?",
+        "Gold answer": [
+            "Rooney family"
+        ],
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Type": [
+            "Explicit"
+        ],
+        "Data source": "WebQuestions",
+        "Question creation date": "2013-10-18 (EMNLP 2013)"
+    },
+    {
+        "Id": 1007,
+        "Question": "what year did us invaded iraq?",
+        "Gold answer": [
+            "2003 invasion of Iraq"
+        ],
+        "Temporal signal": [
+            "No signal"
+        ],
+        "Type": [
+            "Temp.Ans"
+        ],
+        "Data source": "WebQuestions",
+        "Question creation date": "2013-10-18 (EMNLP 2013)"
+    },
+    {
+        "Id": 1008,
+        "Question": "where to vacation in italy in august?",
+        "Gold answer": [
+            "Corriere della Sera",
+            "l'Unit\u00e0",
+            "Il Foglio",
+            "la Repubblica",
+            "Il Messaggero",
+            "La Domenica del Corriere",
+            "La Stampa",
+            "Avanti!",
+            "La Gazzetta dello Sport",
+            "Liberazione"
+        ],
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Type": [
+            "Explicit"
+        ],
+        "Data source": "WebQuestions",
+        "Question creation date": "2013-10-18 (EMNLP 2013)"
+    },
+    {
+        "Id": 1009,
+        "Question": "who was governor of minnesota when ankahee was released?",
+        "Gold answer": [
+            "Tim Pawlenty"
+        ],
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Type": [
+            "Implicit"
+        ],
+        "Data source": "ComplexQuestions",
+        "Question creation date": "2016-12-13 (COLING 2016)"
+    },
+    {
+        "Id": 1010,
+        "Question": "when was the last time the new england patriots won the superbowl?",
+        "Gold answer": [
+            "Super Bowl XXXVIII"
+        ],
+        "Temporal signal": [
+            "ORDINAL"
+        ],
+        "Type": [
+            "Ordinal",
+            "Temp.Ans"
+        ],
+        "Data source": "WebQuestions",
+        "Question creation date": "2013-10-18 (EMNLP 2013)"
+    },
+    {
+        "Id": 1011,
+        "Question": "what is the best currency to take to egypt 2013?",
+        "Gold answer": [
+            "Egyptian pound"
+        ],
+        "Temporal signal": [
+            "No Signal"
+        ],
+        "Type": [
+            "Explicit"
+        ],
+        "Data source": "WebQuestions",
+        "Question creation date": "2013-10-18 (EMNLP 2013)"
+    },
+    {
+        "Id": 1012,
+        "Question": "who does hank baskett play for now nov 2010?",
+        "Gold answer": [
+            "Philadelphia Eagles"
+        ],
+        "Temporal signal": [
+            "No Signal"
+        ],
+        "Type": [
+            "Explicit"
+        ],
+        "Data source": "WebQuestions",
+        "Question creation date": "2013-10-18 (EMNLP 2013)"
+    },
+    {
+        "Id": 1013,
+        "Question": "who was governor of minnesota when a history of violence was released?",
+        "Gold answer": [
+            "Tim Pawlenty"
+        ],
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Type": [
+            "Implicit"
+        ],
+        "Data source": "ComplexQuestions",
+        "Question creation date": "2016-12-13 (COLING 2016)"
+    },
+    {
+        "Id": 1014,
+        "Question": "what did dmitri mendeleev discover in 1869?",
+        "Gold answer": [
+            "Periodic Table"
+        ],
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Type": [
+            "Explicit"
+        ],
+        "Data source": "WebQuestions",
+        "Question creation date": "2013-10-18 (EMNLP 2013)"
+    },
+    {
+        "Id": 1015,
+        "Question": "who did earl clark play for before the lakers?",
+        "Gold answer": [
+            "Orlando Magic",
+            "Phoenix Suns"
+        ],
+        "Temporal signal": [
+            "BEFORE"
+        ],
+        "Type": [
+            "Implicit"
+        ],
+        "Data source": "ComplexQuestions",
+        "Question creation date": "2016-12-13 (COLING 2016)"
+    },
+    {
+        "Id": 1016,
+        "Question": "which movie did matt leblanc star in in 2001?",
+        "Gold answer": [
+            "All the Queen's Men"
+        ],
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Type": [
+            "Explicit"
+        ],
+        "Data source": "ComplexQuestions",
+        "Question creation date": "2016-12-13 (COLING 2016)"
+    }
+]
