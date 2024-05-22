@@ -13,9 +13,9 @@ transformers
 tqdm
 
 install the TKGSQ-PM requirements:
-
+  ```
 conda install requirements.txt -c conda-forge
-
+  ```
 
 # Usage
 
